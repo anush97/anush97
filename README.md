@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on an E2E project ideas
+- 🔭 I’m currently working on some E2E project ideas utilizing my knowledge of Machine Learning
 - 👀 I’m interested in exploring how more can NLP, Computer Vision, and Machine Learning Techniques help us.
 - ✨ Looking for ML-related roles like Python Developer, ML Engineer, MLOps  
 - I’m looking to collaborate on Machine Learning Projects/Data Science Projects/Application Development
