@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently, I'm utilizing my extensive knowledge in Python and Machine Learning to develop end-to-end projects, particularly focusing on areas such as Image Processing, Computer Vision, and NLP.
+- 🔭 Currently, I am utilizing my knowledge in Python and Machine Learning to develop end-to-end projects, particularly focusing on areas such as Image Processing, Computer Vision, and NLP.
 - 👀 I’m interested in exploring how more can NLP, Computer Vision, and Machine Learning Techniques help us.
 - 💼 As a seasoned Python Developer turned Machine Learning Engineer, I am keen on exploring roles in Python development, Machine Learning Engineering, and MLOps where I can make a significant impact.
 - 🤝 I’m looking to collaborate on Machine Learning Projects/Data Science Projects/Application Development
